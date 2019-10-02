@@ -1,3 +1,3 @@
 # hey there
-# I am shivansh dwivedi a programmer and a web devloper
+# I am shivansh dwivedi a Programmer and a web devloper
 
