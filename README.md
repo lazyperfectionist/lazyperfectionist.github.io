@@ -1,3 +1,3 @@
 # hey there
-# I am shivansh dwivedi a Programmer and a web devloper
+# I am shivansh dwivedi a Web Developer and VUI Devloper, Interested In AI/ML
 
